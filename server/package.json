@@ -11,7 +11,7 @@
   "dependencies": {
     "cors": "^2.7.1",
     "express": "^4.13.4",
-    "express-jwt": "^3.4.0",
+    "express-jwt": "^5.1.0",
     "lodash": "^4.12.0"
   }
 }
